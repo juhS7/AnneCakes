@@ -1,0 +1,27 @@
+Cor das fontes:
+D65656 - rosa escuro
+
+menu - FF60A8 - rosa vibrante
+
+fundo: 
+FFC9D4
+
+font:
+fonte normal: aleo, titulo: playball, 
+
+subtitulos: Playfair display SC 
+
+
+textos:
+nossa missão - "Somos uma confeitaria moderna voltada para atender as necessidades de nossos clientes, com linhas que buscam agradar todas as vertentes."
+
+menu:
+Brownie vegano com mix de farinhas sem gluteen
+
+Bannof  de doce de leite com chantilly de coco
+
+Torta de limão com merengue tradicional
+
+
+
+
